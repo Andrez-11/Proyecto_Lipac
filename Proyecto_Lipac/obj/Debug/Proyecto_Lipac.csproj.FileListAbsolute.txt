@@ -1,1 +1,2 @@
 C:\Users\Andrez\Documents\Tuza Team\Proyecto_Lipac\Proyecto_Lipac\bin\Debug\Proyecto_Lipac.exe.config
+C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\bin\Debug\Proyecto_Lipac.exe.config
