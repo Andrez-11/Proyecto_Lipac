@@ -54,18 +54,18 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(60, 58);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(41, 13);
             this.label1.TabIndex = 2;
-            this.label1.Text = "label1";
+            this.label1.Text = "usuario";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(60, 97);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
+            this.label2.Size = new System.Drawing.Size(60, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "label2";
+            this.label2.Text = "contraseña";
             // 
             // button1
             // 
@@ -88,6 +88,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Inicio_Sesion";
             this.Text = "Inicio_Sesion";
+            this.Load += new System.EventHandler(this.Inicio_Sesion_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

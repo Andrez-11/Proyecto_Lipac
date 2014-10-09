@@ -16,5 +16,10 @@ namespace Proyecto_Lipac
         {
             InitializeComponent();
         }
+
+        private void Inicio_Sesion_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
