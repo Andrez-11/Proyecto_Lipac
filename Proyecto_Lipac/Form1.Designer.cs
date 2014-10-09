@@ -107,15 +107,15 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(559, 266);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(113, 13);
+            this.label2.Size = new System.Drawing.Size(143, 13);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Monste es bien bipolar";
+            this.label2.Text = "ANDREZZ SI es bien bipolar";
             // 
             // comboBox4
             // 
             this.comboBox4.FormattingEnabled = true;
             this.comboBox4.Items.AddRange(new object[] {
-            "MOntse",
+            "ISRA",
             "es bien ",
             "bi",
             "polar"});
