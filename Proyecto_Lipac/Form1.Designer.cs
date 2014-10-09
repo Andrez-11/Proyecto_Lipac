@@ -38,7 +38,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 82);
+            this.button1.Location = new System.Drawing.Point(12, 59);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 41);
             this.button1.TabIndex = 0;
@@ -87,7 +87,7 @@
             // 
             this.button2.Location = new System.Drawing.Point(330, 218);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(185, 23);
             this.button2.TabIndex = 5;
             this.button2.Text = "eSTO LO PUSO MONTSE";
             this.button2.UseVisualStyleBackColor = true;
@@ -105,6 +105,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "VENTANA PRINCIPAL";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

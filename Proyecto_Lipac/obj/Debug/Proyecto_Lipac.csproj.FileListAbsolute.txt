@@ -1,3 +1,11 @@
 C:\Users\Andrez\Documents\Tuza Team\Proyecto_Lipac\Proyecto_Lipac\bin\Debug\Proyecto_Lipac.exe.config
 C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\bin\Debug\Proyecto_Lipac.exe.config
 C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\bin\Debug\Proyecto_Lipac.exe.config
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\bin\Debug\Proyecto_Lipac.exe
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\bin\Debug\Proyecto_Lipac.pdb
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.csprojResolveAssemblyReference.cache
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Form1.resources
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Properties.Resources.resources
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.csproj.GenerateResource.Cache
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.exe
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.pdb
