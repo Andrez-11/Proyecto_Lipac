@@ -36,6 +36,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.label2 = new System.Windows.Forms.Label();
+            this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // button1
@@ -87,7 +88,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(330, 218);
+            this.button2.Location = new System.Drawing.Point(72, 276);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(185, 23);
             this.button2.TabIndex = 5;
@@ -110,11 +111,26 @@
             this.label2.TabIndex = 7;
             this.label2.Text = "Monste es bien bipolar";
             // 
+            // comboBox4
+            // 
+            this.comboBox4.FormattingEnabled = true;
+            this.comboBox4.Items.AddRange(new object[] {
+            "MOntse",
+            "es bien ",
+            "bi",
+            "polar"});
+            this.comboBox4.Location = new System.Drawing.Point(331, 258);
+            this.comboBox4.Name = "comboBox4";
+            this.comboBox4.Size = new System.Drawing.Size(121, 21);
+            this.comboBox4.TabIndex = 8;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(794, 338);
+            this.Controls.Add(this.comboBox4);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.button2);
@@ -141,6 +157,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.ComboBox comboBox4;
     }
 }
 
