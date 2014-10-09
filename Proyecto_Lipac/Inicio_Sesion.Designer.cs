@@ -74,7 +74,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 4;
-            this.button1.Text = "button1";
+            this.button1.Text = "Entrar ";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // label3
@@ -82,9 +82,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(127, 21);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(67, 13);
+            this.label3.Size = new System.Drawing.Size(70, 13);
             this.label3.TabIndex = 5;
-            this.label3.Text = "iniciar sesion";
+            this.label3.Text = "Iniciar Sesion";
             // 
             // Inicio_Sesion
             // 
@@ -98,7 +98,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Inicio_Sesion";
-            this.Text = "Inicio_Sesion";
+            this.Text = "Inicio Sesion";
             this.Load += new System.EventHandler(this.Inicio_Sesion_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
