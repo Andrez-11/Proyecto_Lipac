@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace Proyecto_Lipac
 {
-    public partial class Inicio_Sesion : Form
+    public partial class Estudios : Form
     {
-        public Inicio_Sesion()
+        public Estudios()
         {
             InitializeComponent();
         }
 
-        private void Inicio_Sesion_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
+        private void Estudios_Load(object sender, EventArgs e)
         {
 
         }

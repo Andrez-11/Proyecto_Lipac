@@ -17,3 +17,7 @@ C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyect
 C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.csproj.GenerateResource.Cache
 C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.exe
 C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.pdb
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Crear_nota.resources
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Estudios.resources
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Inicio_Sesion.resources
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Menu_Principal.resources
