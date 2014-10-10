@@ -37,5 +37,12 @@ namespace Proyecto_Lipac
             Form Crear_nota = new Form();
             Crear_nota.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Consultar_Nota consultar = new Consultar_Nota();
+            consultar.Show();
+            this.Hide();
+        }
     }
 }

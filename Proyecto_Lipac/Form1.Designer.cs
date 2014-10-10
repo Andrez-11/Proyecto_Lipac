@@ -40,6 +40,7 @@
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
+            this.button3 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -147,12 +148,23 @@
             this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker2.TabIndex = 10;
             // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(530, 258);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(94, 41);
+            this.button3.TabIndex = 11;
+            this.button3.Text = "CONSULTAR NOTA";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(794, 338);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.dateTimePicker2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.comboBox4);
@@ -186,6 +198,7 @@
         private System.Windows.Forms.ComboBox comboBox4;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.DateTimePicker dateTimePicker2;
+        private System.Windows.Forms.Button button3;
     }
 }
 
