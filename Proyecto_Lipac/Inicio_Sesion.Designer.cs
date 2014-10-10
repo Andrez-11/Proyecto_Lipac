@@ -108,7 +108,10 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txt_contra);
             this.Controls.Add(this.txt_usuario);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.HelpButton = true;
             this.Name = "Inicio_Sesion";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Inicio Sesion";
             this.Load += new System.EventHandler(this.Inicio_Sesion_Load);
             this.ResumeLayout(false);
