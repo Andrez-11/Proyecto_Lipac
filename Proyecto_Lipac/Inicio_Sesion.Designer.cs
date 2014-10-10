@@ -95,6 +95,7 @@
             this.btn_entrar.TabIndex = 4;
             this.btn_entrar.Text = "Entrar ";
             this.btn_entrar.UseVisualStyleBackColor = false;
+            this.btn_entrar.Click += new System.EventHandler(this.btn_entrar_Click);
             // 
             // Inicio_Sesion
             // 

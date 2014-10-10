@@ -26,5 +26,13 @@ namespace Proyecto_Lipac
         {
 
         }
+
+        private void btn_entrar_Click(object sender, EventArgs e)
+        {
+            Menu_Principal menu = new Menu_Principal();
+            menu.Show();
+            this.Hide();
+
+        }
     }
 }
