@@ -93,7 +93,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(69, 207);
+            this.button2.Location = new System.Drawing.Point(12, 130);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(185, 23);
             this.button2.TabIndex = 5;
@@ -113,9 +113,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(150, 161);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(143, 13);
+            this.label2.Size = new System.Drawing.Size(201, 13);
             this.label2.TabIndex = 7;
-            this.label2.Text = "ANDREZZ SI es bien bipolar";
+            this.label2.Text = "ANDREZZ SI es bien super mega bipolar";
             // 
             // comboBox4
             // 
@@ -135,7 +135,7 @@
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(12, 117);
+            this.pictureBox1.Location = new System.Drawing.Point(12, 258);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(132, 84);
             this.pictureBox1.TabIndex = 9;
@@ -150,7 +150,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(530, 258);
+            this.button3.Location = new System.Drawing.Point(678, 12);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(94, 41);
             this.button3.TabIndex = 11;
