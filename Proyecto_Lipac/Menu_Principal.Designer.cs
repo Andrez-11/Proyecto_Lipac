@@ -32,7 +32,7 @@
             // 
             // Menu_Principal
             // 
-            this.ClientSize = new System.Drawing.Size(843, 420);
+            this.ClientSize = new System.Drawing.Size(765, 358);
             this.Name = "Menu_Principal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu Principal";
