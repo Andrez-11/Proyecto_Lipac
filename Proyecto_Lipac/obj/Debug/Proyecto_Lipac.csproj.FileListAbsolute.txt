@@ -27,3 +27,5 @@ C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyect
 C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Inicio_Sesion.resources
 C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Menu_Principal.resources
 C:\Users\Andrez\Documents\GitHub\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Consultar_Nota_Detalle.resources
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Consultar_Nota.resources
+C:\Users\Martha Alicia\Source\Repos\Proyecto_Lipac\Proyecto_Lipac\obj\Debug\Proyecto_Lipac.Consultar_Nota_Detalle.resources

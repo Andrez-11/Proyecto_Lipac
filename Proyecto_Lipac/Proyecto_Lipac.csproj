@@ -44,6 +44,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Medicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos.Designer.cs">
+      <DependentUpon>Medicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Consultar_Nota.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +92,12 @@
     <Compile Include="Inicio_Sesion.Designer.cs">
       <DependentUpon>Inicio_Sesion.cs</DependentUpon>
     </Compile>
+    <Compile Include="Membresias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Membresias.Designer.cs">
+      <DependentUpon>Membresias.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu_Principal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +106,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Medicos.resx">
+      <DependentUpon>Medicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Consultar_Nota.resx">
       <DependentUpon>Consultar_Nota.cs</DependentUpon>
     </EmbeddedResource>
@@ -105,6 +129,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Inicio_Sesion.resx">
       <DependentUpon>Inicio_Sesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Membresias.resx">
+      <DependentUpon>Membresias.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu_Principal.resx">
       <DependentUpon>Menu_Principal.cs</DependentUpon>

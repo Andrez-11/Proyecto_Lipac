@@ -326,6 +326,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Crear_nota";
             this.Text = "Crear Nota";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Crear_nota_FormClosed);
             this.Load += new System.EventHandler(this.crear_nota_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

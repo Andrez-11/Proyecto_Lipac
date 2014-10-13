@@ -34,8 +34,10 @@ namespace Proyecto_Lipac
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form Crear_nota = new Form();
-            Crear_nota.Show();
+            Crear_nota nota = new Crear_nota();
+            nota.Show();
+            this.Hide();
+
         }
 
         private void button3_Click(object sender, EventArgs e)

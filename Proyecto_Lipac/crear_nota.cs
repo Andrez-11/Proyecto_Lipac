@@ -38,5 +38,10 @@ namespace Proyecto_Lipac
             Form Estudio = new Form();
             Estudio.Show();
         }
+
+        private void Crear_nota_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
