@@ -16,5 +16,15 @@ namespace Proyecto_Lipac
         {
             InitializeComponent();
         }
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Menu_Principal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
